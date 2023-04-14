@@ -1,0 +1,3 @@
+/Users/wonderstone/Desktop/VAE-addon/build/VAE/CMakeFiles/VAE-Addon.dir
+/Users/wonderstone/Desktop/VAE-addon/build/VAE/CMakeFiles/edit_cache.dir
+/Users/wonderstone/Desktop/VAE-addon/build/VAE/CMakeFiles/rebuild_cache.dir
