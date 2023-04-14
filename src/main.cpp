@@ -70,7 +70,7 @@ int main()
         cout << "targets[" << i << "] = " << targets[i] << endl;
     }
 
-    
+    // test
     return 0;
 }
 
