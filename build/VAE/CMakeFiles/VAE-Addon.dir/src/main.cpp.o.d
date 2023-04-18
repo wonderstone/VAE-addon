@@ -734,4 +734,5 @@ CMakeFiles/VAE-Addon.dir/src/main.cpp.o: \
   /Users/wonderstone/Desktop/VAE-addon/src/algoStruct.cpp \
   /Users/wonderstone/Desktop/VAE-addon/./include/assessment.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/map \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__tree
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__tree \
+  /Users/wonderstone/Desktop/VAE-addon/src/algoManager.cpp

@@ -2,7 +2,7 @@
 using namespace std;
 
 // define construct function:
-AlgoStruct::AlgoStruct( string algoID)
+AlgoStruct::AlgoStruct(string algoID)
 {
     AlgoID = algoID;
 }
@@ -48,7 +48,7 @@ void AlgoStruct::setUpdateTimeStamp(string timeStamp)
 
 void AlgoStruct::setNumAlloc(string targetID, int numAlloc)
 {
-    NumAllocMap[targetID] = numAlloc;// 利用数组覆盖的方式更新NumAllocMap
+    NumAllocMap[targetID] = numAlloc; // 利用数组覆盖的方式更新NumAllocMap
 }
 
 void AlgoStruct::setNumExec(string targetID, int numExec)
@@ -68,8 +68,4 @@ void AlgoStruct::addTarget(string targetID)
     NumExecMap[targetID] = 0;
     AssMap[targetID] = {};
     BpMap[targetID] = {};
-
 }
-
-
-
